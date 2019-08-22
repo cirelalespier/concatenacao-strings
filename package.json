@@ -1,0 +1,22 @@
+{
+  "name": "concatenacao-strings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cirelalespier/concatenacao-strings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cirelalespier/concatenacao-strings/issues"
+  },
+  "homepage": "https://github.com/cirelalespier/concatenacao-strings#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
